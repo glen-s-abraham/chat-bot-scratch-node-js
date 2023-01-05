@@ -16,6 +16,20 @@
           "I'm young. I'm not sure of my birth date",
           "I don't know my birth date. Most virtual agents are young, though, like me."
         ]
+      },
+      {
+        "intent": "agent.greetings",
+        "utterances": [
+          "goodbye for now",
+          "bye bye take care",
+          "okay see you later",
+          "bye for now",
+          "i must go"
+        ],
+        "answers": [
+          "Till next time",
+          "see you soon!"
+        ]
       }
     ]
   }
